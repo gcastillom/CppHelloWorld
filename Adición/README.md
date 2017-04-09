@@ -9,7 +9,7 @@ Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
   
   a, b, c pertenece a R, donde c es la suma de a y b.
   
-   $A = \pi*r^{2}$ 
+   $a, b, c \in a \mathbb{R}, donde c es la suma de a y b$ 
   
 $$ A\in $$
   
