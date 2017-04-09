@@ -11,6 +11,8 @@ Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
   
    $A = \pi*r^{2}$ 
   
+$$ A\in $$
+  
 ## Algoritmo:
   - Leer a
   - Leer b
