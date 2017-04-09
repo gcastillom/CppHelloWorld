@@ -12,5 +12,5 @@ Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
 ## Algoritmo:
   - Leer a
   - Leer b
-  - c <-- a+b
+  - c $\leftarrow$ a+b
   - Escribir c
