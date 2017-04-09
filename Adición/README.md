@@ -8,6 +8,10 @@ Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
   ![image](https://lh3.googleusercontent.com/bwCU11mMaKejZ25DpMilFnyImHe6rkq9vxHBWNclXqPC7WyFLXJcCYF2ojSdvrTzBFmB_6QV=s0 "Proceso.png")
   
   a, b, c pertenece a R, donde c es la suma de a y b.
+  $a, b, c\in\mathbb{R}$ 
+  $\frac{\sqrt{\lambda} }{n_i}$
+  $\mbox{SO}_4^=$
+  
 ## Algoritmo:
   - Leer a
   - Leer b
