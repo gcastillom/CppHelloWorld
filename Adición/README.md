@@ -14,3 +14,6 @@ Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
   - Leer b
   - c $\leftarrow$ a+b
   - Escribir c
+
+
+[Extensión Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
