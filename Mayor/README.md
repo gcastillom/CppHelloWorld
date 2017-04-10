@@ -11,5 +11,9 @@ Dado dos números informar cuál es el mayor.
 ## Algoritmo:
   - Leer a
   - Leer b
+  - a > b
+  * "a es mayor que b"
   - c <-- a+b
   - Escribir c
+
+ 
